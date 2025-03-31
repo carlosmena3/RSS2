@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="estilo.xsl"?>
+<rss version="2.0">
+  <channel>
+    <title>Noticias HTML5</title>
+    <link>https://tusitio.com</link>
+    <description>Novedades y conceptos clave de HTML5</description>
+
+    <item>
+      <title>¿Qué es HTML5?</title>
+      <link>https://tusitio.com/que-es-html5</link>
+      <description>HTML5 es la última versión del lenguaje de marcado para la web.</description>
+      <pubDate>Mon, 01 Apr 2024 10:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Nuevas etiquetas semánticas</title>
+      <link>https://tusitio.com/etiquetas-semanticas</link>
+      <description>HTML5 introduce etiquetas como &lt;section&gt;, &lt;article&gt;, &lt;header&gt; y &lt;footer&gt;.</description>
+      <pubDate>Tue, 02 Apr 2024 12:00:00 +0000</pubDate>
+    </item>
+
+    <item>
+      <title>Multimedia sin plugins</title>
+      <link>https://tusitio.com/multimedia-html5</link>
+      <description>Con HTML5 puedes usar &lt;audio&gt; y &lt;video&gt; sin necesidad de Flash.</description>
+      <pubDate>Wed, 03 Apr 2024 14:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
